@@ -4,7 +4,7 @@
   <img src="" alt="logo" width="140"  height="auto" style="border-radius:30px;" />
   <br/>
 
-  <h3><b>To do list App</b></h3>
+  <h3><b>Awesome Books in ES6</b></h3>
 
 </div>
 
@@ -14,7 +14,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>To Do List App</b></h3>
 
 </div>
 
@@ -43,11 +43,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [AWESOME LIBRARY] <a name="about-project"></a>
+# 📖 [To Do List App] <a name="about-project"></a>
 
 
 
-**[Awesome Library]** is a simple website that displays a list of books and allows you to add and remove books from that list.
+**[To Do List App]** To Do List App structure.
 
 **Awsome Book Project** is a...
 
@@ -62,10 +62,10 @@
 ### Key Features <a name="key-features"></a>
 
 <!-- > Describe between 1-3 key features of the application.-->
-- **Add book to the list**
-- **Remove book from the list**
+- **Add items to the list**
+- **Remove items from the list**
 - **Wireframe UI design**
- **Using ES6 modules**
+ **Using ES6 modules and webpack**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ Example command:
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/MishDM/Awesome-books.git
+git clone https://github.com/MishDM/To-Do-List-App.git
 ```
 
 - Navigate to the location of the folder in your machine:
